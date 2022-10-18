@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-image: url(C:/Users/LENOVO/Desktop/alira/src/img/black.jpg);
+  width: 100%;
+  height: 100%;
+  font-family: 'Glacial-Indifference-Regular';
+  font-weight: normal;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
